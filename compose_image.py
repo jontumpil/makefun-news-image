@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Compose entry.png: one image summing up the world news of
+"""RETIRED v1 composer, kept for reference only. The graded entry is
+now main.py, which draws the v2 front page itself (broader, and with
+the two Thursday stories below removed to a date-check strip).
+
+Compose entry.png: one image summing up the world news of
 Friday 20 November 2026, drawn as a clean newspaper front page.
 
 Stories (all reported on 20 Nov 2026, cross-checked across the day's
